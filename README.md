@@ -1,8 +1,7 @@
-# code-20212704-nileshsahitya
+# BMI-calculation API
 
 # Documentation
 
-# Assumptions
   1. used worker thread for calculating bmi 
   2. stored all data at once using mongodb
   3. overweight data checked consistently 
